@@ -11,21 +11,34 @@ img {
 }
 
 @media only screen and (max-width: 700px) {
-    .money {
+    .workpic {
         display: none;
     }
 }
 
-.money {
+.workpic {
     margin-right: 50px;
-    width: 100px;
-    height: 140px;
+    min-width: 70%;
+
 }
 
+.info {
+    margin-left: 100px;
+}
 .header {
     text-align: center;
 }
 
+.head3 {
+    text-align: center;
+}
+
+.head4 {
+    margin-left: 100px;
+}
+.workpic {
+    margin-left: 20px;
+}
 .subhead {
     text-align: center;
 }
